@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Números Aleatórios</string>
+    <string name="label_botao">Generate number</string>
+    <string name="desenvolvido_por">Developed by Yuri Fidalgo</string>
+</resources>

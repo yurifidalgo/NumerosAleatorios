@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\NumerosAleatorios-2TJDR-master\NumerosAleatorios.iml" filepath="D:\NumerosAleatorios-2TJDR-master\NumerosAleatorios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerosAleatorios-2TJDR-master.iml" filepath="$PROJECT_DIR$/NumerosAleatorios-2TJDR-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\NumerosAleatorios-2TJDR-master\app\app.iml" filepath="D:\NumerosAleatorios-2TJDR-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
